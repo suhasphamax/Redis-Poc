@@ -1,0 +1,24 @@
+{
+    "MicrosoftAppType": " "
+    "MicrosoftAppTenantId": " ",
+    "MicrosoftAppId": "a08abdca-836e-49f1-9c58-5b08eec57fd2",
+    "MicrosoftAppPassword": "HBO8Q~q7qyoB~EQECx7Q6gbFZJl.Y74XXSjNYbdA",
+    "AllowedCallers": "f5c6cd5c-bfd8-4c58-b800-18a63f1cba57",
+    "ROOT_BOT_ID": "a08abdca-836e-49f1-9c58-5b08eec57fd2",
+    "BASE_URL": "https://a2-skill-qlik.azurewebsites.net",
+    "QLIK_HOSTNAME": "8uavmnrsyt9fe9e.eu.qlikcloud.com",
+    "QLIK_APP_ID": "243e3768-6164-4766-aadc-bd90a27f12ff",
+    "QLIK_API_KEY": "eyJhbGciOiJFUzM4NCIsImtpZCI6IjQ1ODgyZjVmLTZlZDYtNDgwZS05NjI1LTQwYjUzNDYwYjI0YSIsInR5cCI6IkpXVCJ9.eyJzdWJUeXBlIjoidXNlciIsInRlbmFudElkIjoiQmFoRFppQk1kbTZmR2YxN1JEdnhRODBFNS1hYXpsZ2giLCJqdGkiOiI0NTg4MmY1Zi02ZWQ2LTQ4MGUtOTYyNS00MGI1MzQ2MGIyNGEiLCJhdWQiOiJxbGlrLmFwaSIsImlzcyI6InFsaWsuYXBpL2FwaS1rZXlzIiwic3ViIjoiNjMzYTgwYjMxMjRkMWQzNmI2NTVlMmEzIn0.PuBV6P28xiUMf-1D6GYliOPfmUlHlDFjoocBRwZ3kZ-wt0THotYSEQRJmvjPEyj5NVnWT0BkevFk-H5w5p_lagHAyvX9X4-LvKh1Ue3A2-r0XaYMqo3qGwf2f6BL6ucU",
+    "QLIK_WEB_INTEGRATION_ID": "CYqbtFce_lV2hLOa6Rf8EEpldvYQvD7O"
+}
+
+hset env_file   "MicrosoftAppType " "
+"MicrosoftAppTenantId " ""MicrosoftAppId "a08abdca-836e-49f1-9c58-5b08eec57fd2"
+"MicrosoftAppPassword "HBO8Q~q7qyoB~EQECx7Q6gbFZJl.Y74XXSjNYbdA"
+"AllowedCallers "f5c6cd5c-bfd8-4c58-b800-18a63f1cba57"
+"ROOT_BOT_ID "a08abdca-836e-49f1-9c58-5b08eec57fd2"
+"BASE_URL "https://a2-skill-qlik.azurewebsites.net"
+"QLIK_HOSTNAME "8uavmnrsyt9fe9e.eu.qlikcloud.com"
+"QLIK_APP_ID "243e3768-6164-4766-aadc-bd90a27f12ff"
+"QLIK_API_KEY "eyJhbGciOiJFUzM4NCIsImtpZCI6IjQ1ODgyZjVmLTZlZDYtNDgwZS05NjI1LTQwYjUzNDYwYjI0YSIsInR5cCI6IkpXVCJ9.eyJzdWJUeXBlIjoidXNlciIsInRlbmFudElkIjoiQmFoRFppQk1kbTZmR2YxN1JEdnhRODBFNS1hYXpsZ2giLCJqdGkiOiI0NTg4MmY1Zi02ZWQ2LTQ4MGUtOTYyNS00MGI1MzQ2MGIyNGEiLCJhdWQiOiJxbGlrLmFwaSIsImlzcyI6InFsaWsuYXBpL2FwaS1rZXlzIiwic3ViIjoiNjMzYTgwYjMxMjRkMWQzNmI2NTVlMmEzIn0.PuBV6P28xiUMf-1D6GYliOPfmUlHlDFjoocBRwZ3kZ-wt0THotYSEQRJmvjPEyj5NVnWT0BkevFk-H5w5p_lagHAyvX9X4-LvKh1Ue3A2-r0XaYMqo3qGwf2f6BL6ucU"
+"QLIK_WEB_INTEGRATION_ID "CYqbtFce_lV2hLOa6Rf8EEpldvYQvD7O"
